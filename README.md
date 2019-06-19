@@ -6,4 +6,4 @@ Concepts  to analyze results:
 - Multicollinearity
 - Accounting for Simpson's Paradox
 
-*-This project is part of Udacity's Data Analyst Nanodegree program*
+*-This project is part of Udacity's Data Analyst Nanodegree program.*
