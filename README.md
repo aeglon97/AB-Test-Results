@@ -1,6 +1,6 @@
 # AB-Test-Results
 
-Concepts  to analyze results:
+Concepts used to analyze results:
 - Hypothesis Testing
 - Logistic Regression
 - Multicollinearity
